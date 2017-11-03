@@ -8,3 +8,7 @@ def my_collect(array)
  end
  collection
 end
+
+test = "hello"
+
+puts test.upcase
